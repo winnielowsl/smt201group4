@@ -1,0 +1,9 @@
+---
+title: "Welcome to our website for SMT201 Group Project!"
+description: |
+  In this website, we discuss about our work done and insights gained for the project. Here are some information about us.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

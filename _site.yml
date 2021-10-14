@@ -1,0 +1,18 @@
+name: "smt201grp4"
+title: "SMT201 Project Group 4"
+description: |
+  SMT201 Project Group 4
+output_dir: "_site"
+navbar:
+  left:
+    - text: "Overview"
+      href: index.html
+    - text: "Data Preparation"
+      href: data.html
+    - text: "Report of Survey"
+      href: survey.html
+    - text: "Site Suitability"
+      href: site.html
+    - text: "About Us"
+      href: about.html
+output: distill::distill_article

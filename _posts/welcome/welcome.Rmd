@@ -1,0 +1,33 @@
+---
+title: "Welcome to our website for SMT201 Group Project!"
+description: |
+  In this website, we discuss about our work done and insights gained for the project. 
+author:
+  - name: Winnie Low 
+    url: https://example.com/norajones
+    affiliation: School of Computing and Information Systems, SMU
+    affiliation_url: https://example.com/spacelysprokets
+  - name: Phua Hui Qi 
+    url: https://example.com/norajones
+    affiliation: School of Computing and Information Systems, SMU
+    affiliation_url: https://example.com/spacelysprokets
+  - name: Shereen
+    url: https://example.com/norajones
+    affiliation: School of Computing and Information Systems, SMU
+    affiliation_url: https://example.com/spacelysprokets
+date: 10-14-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+
+

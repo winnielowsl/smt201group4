@@ -1,0 +1,37 @@
+---
+title: "Overview"
+output: distill::distill_article
+---
+## Introduction 
+In 2019, Indonesia president Joko Widodo announced a plan to relocate Indonesia's current capital, Jakarta to Kalimantan on the island of Borneo. Part of East Kalimantan will be carved out to make space for the new capital. With such a big shift, how will it affect the country and is relocation a wise choice? As such, in this project, we aim to study the new capital area and conduct site suitability analysis of the study area. 
+
+## The Study Area
+In this project, we studied sub-districts and districts of: 
+
+1. Kota Balipapan
+2. Kota Samarinda
+3. North Penajam Paser (selected):
+    * Bubulu, Penajam, Sepaku, Waru
+4. Kutai Kartanegara Regencies (selected):
+    * Anggana, Loa Janan, Loa Kulu, Marang Kayu, Muara Jawa, Samboja, Sanga Sanga, Sebulu Tenaggarong, Tenggarong Seberang, Muara Badak
+
+## Project Objectives
+**We have 2 aim project objectives:**
+
+Task 1: Prepare a report of survey covering these aspects of our study area:
+
+   * Population and Demographic
+   * Economic and Business
+   * Transport and Communication
+   * Infrastructure
+   * Environment and Hazard
+   
+Task 2: Analyze the study area to determine whether it is a suitable site as Indonesia's new capital
+
+## Project Timelie
+**Our Gantt Chart**
+![](img/project timeline.png)
+
+**Delegation of Work**
+![](img/delegationofwork1.png)
+*Delegation of work for task 2: TBA*
