@@ -3,7 +3,7 @@ title: "Welcome to our website for SMT201 Group Project!"
 description: |
   In this website, we discuss about our work done and insights gained for the project. 
 author:
-  - name: Winnie Low 
+  - name: Winnie Low Shi Ling
     url: https://example.com/norajones
     affiliation: School of Computing and Information Systems, SMU
     affiliation_url: https://example.com/spacelysprokets
