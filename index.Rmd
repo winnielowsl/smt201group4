@@ -16,7 +16,7 @@ In this project, we studied sub-districts and districts of:
     * Anggana, Loa Janan, Loa Kulu, Marang Kayu, Muara Jawa, Samboja, Sanga Sanga, Sebulu Tenaggarong, Tenggarong Seberang, Muara Badak
 
 ## Project Objectives
-**We have 2 aim project objectives:**
+**We have 2 main project objectives:**
 
 Task 1: Prepare a report of survey covering these aspects of our study area:
 
