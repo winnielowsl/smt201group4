@@ -4,7 +4,7 @@ description: |
   In this website, we discuss about our work done and insights gained for the project. Here are some information about us.
 
 author:
-  - name: Winnie Low 
+  - name: Winnie Low
     url: https://example.com/norajones
     affiliation: School of Computing and Information Systems, SMU
     affiliation_url: https://example.com/spacelysprokets
