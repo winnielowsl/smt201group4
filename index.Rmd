@@ -25,6 +25,7 @@ Task 1: Prepare a report of survey covering these aspects of our study area:
    * Transport and Communication
    * Infrastructure
    * Environment and Hazard
+   * Topography
    
 Task 2: Analyze the study area to determine whether it is a suitable site as Indonesia's new capital
 
@@ -32,6 +33,10 @@ Task 2: Analyze the study area to determine whether it is a suitable site as Ind
 **Our Gantt Chart**
 ![](img/project timeline.png)
 
-**Delegation of Work**
+## Scope of Work
+**Delegation of Work for Task 1**
 ![](img/delegationofwork1.png)
-*Delegation of work for task 2: TBA*
+
+**Delegation of Work for Task 2**
+
+*TBA*
