@@ -3,7 +3,7 @@ title: "Overview"
 output: distill::distill_article
 ---
 ## Introduction 
-In 2019, Indonesia president Joko Widodo announced a plan to relocate Indonesia's current capital, Jakarta to Kalimantan on the island of Borneo. Part of East Kalimantan will be carved out to make space for the new capital. With such a big shift, how will it affect the country and is relocation a wise choice? As such, in this project, we aim to study the new capital area and conduct site suitability analysis of the study area. 
+In 2019, Indonesia president Joko Widodo announced a plan to relocate Indonesia's current capital, Jakarta to Kalimantan on the island of Borneo. Part of East Kalimantan will be carved out to make space for the new capital. With such a big shift, how will it affect the country and is relocation a wise choice? As such, in this project, we aim to study the selected area (“study area”) and conduct site suitability analysis to select a new capital in the study area. 
 
 ## Project Study Area
 In this project, we studied sub-districts and districts of: 
@@ -27,7 +27,7 @@ Task 1: Prepare a report of survey covering these aspects of our study area:
    * Environment and Hazard
    * Topography
    
-Task 2: Analyze the study area to determine whether it is a suitable site as Indonesia's new capital
+Task 2: Analyze the study area to select a suitable site as Indonesia's new capital
 
 ## Project Timelie
 **Our Gantt Chart**
