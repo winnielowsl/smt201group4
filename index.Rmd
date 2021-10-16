@@ -15,6 +15,9 @@ In this project, we studied sub-districts and districts of:
 4. Kutai Kartanegara Regencies (selected):
     * Anggana, Loa Janan, Loa Kulu, Marang Kayu, Muara Jawa, Samboja, Sanga Sanga, Sebulu Tenaggarong, Tenggarong Seberang, Muara Badak
 
+![](img/capital.png)
+*Source: https://www.theguardian.com/world/2019/aug/27/why-is-indonesia-moving-its-capital-city-everything-you-need-to-know*
+
 ## Project Objectives
 **We have 2 main project objectives:**
 
