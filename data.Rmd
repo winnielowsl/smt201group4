@@ -1,6 +1,22 @@
 ---
 title: "Data Preparation"
 ---
+*These are the data sources utilized in our project. Upon downloading the required data, we performed data translation for layers and field which are in Bahasa to English. Additonally, we extracted out the relevant data which fall within our study area. * 
+
+Original File Name | Translated File Name | Description | Source
+------------- | ------------- | ------------- | -------------
+Batas Desa & Data Kependudukan Tahun 2019 Seluruh Indonesia | Village Boundary of East Kalimantan Province | Shapefile with information of the villages in East Kalimantan Province | [*Indonesia Geospatial*](https://www.indonesia-geospasial.com/2020/04/download-shapefile-shp-batas-desa.html)
+Shapefile (SHP) RBI Kabupaten Kutai Kartanegara | RBI Kutai Kartanegara Regency (District) | Shapefile with different data layers of the villages in Kutai Kartanegara | [*Indonesia Geospatial*](https://www.indonesia-geospasial.com/2020/01/shp-rbi-provinsi-kalimantan-timur.html)
+Shapefile (SHP) RBI Kabupaten Penajam Paser Utara | RBI North Penajam Paser Regency (District) | Shapefile with different data layers of the villages in North Penajam Paser Regency | [*Indonesia Geospatial*](https://www.indonesia-geospasial.com/2020/01/shp-rbi-provinsi-kalimantan-timur.html)
+Shapefile (SHP) RBI Kota Balikpapan | RBI Balikpapan City | Shapefile with different data layers of the villages in Balikpapan | [*Indonesia Geospatial*](https://www.indonesia-geospasial.com/2020/01/shp-rbi-provinsi-kalimantan-timur.html)
+Shapefile (SHP) RBI Kota Samarinda | RBI Samarinda City | Shapefile with different data layers of the villages in Samarinda | [*Indonesia Geospatial*](https://www.indonesia-geospasial.com/2020/01/shp-rbi-provinsi-kalimantan-timur.html)
+DEM SRTM 30m Provinsi Kalimantan Timur | DEM SRTM East Kalimantan Province | Digital Elevation Model for East Kalimantan | [*Indonesia Geospatial*](https://www.indonesia-geospasial.com/2020/01/download-dem-srtm-30-meter-se-indonesia.html)
+Shapefile Titik Api Hotspot Seluruh Indonesia (2014-2019) | Forest Fire Hotspots in Indonesia  | Forest fire locations | [*Indonesia Geospatial*](https://www.indonesia-geospasial.com/2020/04/shapefile-shp-titik-api-hotspot.html)
+Shapefile Pemukiman Detail Seluruh Indonesia | OSM Buildings | Shapefile with information and location of the buildings in Indonesia | [*Indonesia Geospatial*](https://www.indonesia-geospasial.com/2020/12/download-shp-pemukiman-detail-seluruh.html)
+Shapefile Jaringan Jalan Detail Seluruh Indonesia | OSM Roads | Shapefile with location of the roads in Indonesia | [*Indonesia Geospatial*](https://www.indonesia-geospasial.com/2020/12/download-shp-jaringan-jalan.html.html)
+Kalimantan-latest-free | - | Shapefile with different OSM data layers of Kalimantan | [*Geofabrik*](https://download.geofabrik.de/asia/indonesia/kalimantan.html)
+
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
