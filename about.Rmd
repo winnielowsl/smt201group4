@@ -5,17 +5,17 @@ description: |
 
 author:
   - name: Winnie Low
-    url: https://example.com/norajones
+    url: https://www.linkedin.com/in/winnie-low-a2a689141/
     affiliation: School of Computing and Information Systems, SMU
-    affiliation_url: https://example.com/spacelysprokets
+    affiliation_url: https://scis.smu.edu.sg/
   - name: Phua Hui Qi 
-    url: https://example.com/norajones
+    url: https://www.linkedin.com/in/phua-hui-qi-2104/
     affiliation: School of Computing and Information Systems, SMU
-    affiliation_url: https://example.com/spacelysprokets
+    affiliation_url: https://scis.smu.edu.sg/
   - name: Shereen Tan
-    url: https://example.com/norajones
+    url: http://www.linkedin.com/in/tanshereen
     affiliation: School of Computing and Information Systems, SMU
-    affiliation_url: https://example.com/spacelysprokets
+    affiliation_url: https://scis.smu.edu.sg/
 date: 10-14-2021
 output:
   distill::distill_article:
