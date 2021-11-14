@@ -2,3 +2,7 @@
 title: "Site Suitability Analysis"
 ---
 
+*In this section, you will find the recommended site obtained through AHP Suitability analysis, alongside a discusssion of the advantages and disadvantages of the site.*
+
+## Potential Site as Indonesia's New Capital
+![](img/potential site.png)

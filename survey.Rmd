@@ -20,7 +20,7 @@ The most densely populated areas, Balikpapan City and Samarinda City, are domina
 ![](img/transport_village.png)
 *View our web map here: [transportation in east kalimantan]()*
 
-The map above shows the 2 villages with the highest transportation count of 4 each. Penajam has 2 water transports and 2 road transports. Whereas Sebulu Modern has 4 water transports. 
+The map above shows the overall distribution of transportation modes in East Kalimantan. The zoomed in maps show 2 villages with the highest transportation count of 4 each. Penajam has 2 water transports and 2 road transports. Whereas Sebulu Modern has 4 water transports. Overall, we can see how transportation is mainly concentrated at Kota Balikpapan and Kota Samarinda, where they both have an airport in the area as well. This is not surprising considering how these 2 areas are the cities. Additionally, it can be seen that transportation in Penajam Paser Utara is low, and the main transportation modes available in Kutai Kartanegara are ferries and boats. 
 
 ##### 2. ROAD DENSITY ANALYSIS
 ![](img/road density.png)
@@ -43,9 +43,17 @@ The above map shows which are the locations of the major river course and coastl
 ## Infrastructure
 ##### 1. SOURCES OF ENERGY
 ![](img/energy facilities final.png)
-The majority of East Kalimantan’s energy production activity lies within Kutai Kartanegara. Penajam Paser Utara and Kota Balikpapan are not involved in the gas and oil production industry, while Kota Samarinda only has one oil fuel depot in its area. Indonesia is heavily dependent on gas and oil exports for economic growth, where East Kalimantan is one of Indonesia’s main sources of gas and oil production. Therefore, the new selected site for the capital should avoid areas with gas and oil facilities so as to not disrupt production activities as it plays a crucial role in sustaining Indonesia’s economy as a whole
+The majority of East Kalimantan’s energy production activity lies within Kutai Kartanegara. Penajam Paser Utara and Kota Balikpapan are not involved in the gas and oil production industry, while Kota Samarinda only has one oil fuel depot in its area. Indonesia is heavily dependent on gas and oil exports for economic growth, where East Kalimantan is one of Indonesia’s main sources of gas and oil production. Therefore, the new selected site for the capital should avoid areas with gas and oil facilities so as to not disrupt production activities as it plays a crucial role in sustaining Indonesia’s economy as a whole.
 
 
 ##### 2. WATER FACILITIES
+![](img/water facilities.png)
+The map above shows the distribution of 2 types of water facilities: drinking water treatment plants and PAM offices (Indonesia owned tap water company). We can see that the distribution of water facilities is rather unequal – Penajam Paser Utara has 0 water facilities, while Kota Balikpapan only has 1 PAM office in its area. Majority of the water treatment plants and PAM offices are situated in Kutai Kartanegara and Kota Samarinda, and the facilities within each district are rather evenly distributed. 
 
 ##### 3. ELECTRICAL FACILITIES
+![](img/electrical facilities.png)
+At a glance, we can see that there is a severe lack of power grid facilities in Penajam Paser Utara. The area only consists of 3 PLN Offices (Indonesia’s state owned electricity company). In contrast, the other districts each have at least 1 power plant within their region, with Kota Balikpapan and Kota Samarinda having 1 power plant each, and Kutai Kartanegara having a total of 4 power plants. Kota Samarinda and Kutai Kartanegara have other supporting facilities, with the former having 2 substations and the latter having 1 transmission tower. 
+
+##### 4. HOUSING AND BUILDING DISTRIBUTION
+![](img/building distribution.png)
+As we can see from the map, the building distribution is highly skewed and uneven across the whole of East Kalimantan. 80% of the villages have building counts ranging from 0 to a maximum of 2941 buildings only. As observed from the map, these villages are likely to be situated in Penajam Paser Utara and Kutai Kartanegara. The remaining 20% of villages house majority of the buildings, with the building counts ranging from 2941 to a maximum of 20774 buildings within a single village. This means that the building density in these villages is very concentrated. As seen, these villages lie in Kota Balikpapan and Kota Samarinda. 
