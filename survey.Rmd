@@ -23,7 +23,8 @@ The total mining area in our study area is 258.27 km2 scattered mostly across th
 ## Transport and Communication
 ##### 1. VILLAGES WITH HIGHEST NUMBER OF TRANSPORTATION
 ![](img/transport_village.png)
-*View our web map here: [transportation in east kalimantan](https://winnielowsl.github.io/Transportation/#10/-1.3189/117.3717)*
+
+> *View our web map here: [transportation in east kalimantan](https://winnielowsl.github.io/Transportation/#10/-1.3189/117.3717)*
 
 The map above shows the overall distribution of transportation modes in East Kalimantan. The zoomed in maps show 2 villages with the highest transportation count of 4 each. Penajam has 2 water transports and 2 road transports. Whereas Sebulu Modern has 4 water transports. Overall, we can see how transportation is mainly concentrated at Kota Balikpapan and Kota Samarinda, where they both have an airport in the area as well. This is not surprising considering how these 2 areas are the cities. Additionally, it can be seen that transportation in Penajam Paser Utara is low, and the main transportation modes available in Kutai Kartanegara are ferries and boats. 
 

@@ -1,7 +1,11 @@
 ---
-title: "Overview"
+title: "Project Scope"
 output: distill::distill_article
 ---
+![](img/logo.jpg){width=50%}
+
+Kesibumantan is a project under the module SMT201 Geographic Information Systems. In Bahasa, Kesibukan means hustle and bustle. Since the project involves studying Kalimantan Timur (East Kalimantan) for Indonesia's new capital, we decided to name the project Kesibumantan which is a combination of Kesibukan + Kalimantan. 
+
 ## Introduction 
 Jakarta, Indonesia’s current capital, has long been struggling with environmental problems. The seawall constructed to protect north Jakarta from the sea is also decreasing by an estimated 25cm per year, Jakarta is sinking very fast and facing an increasing risk of major flooding as days go by. Moving the capital was thus deemed necessary to spread the economic activities, reduce traffic gridlock and also decrease the population density in the overcrowded Java island that is home to almost 60% of the population.
 
@@ -32,7 +36,7 @@ In this project, we studied sub-districts and districts of:
 
 Our first objective is to prepare a report of survey covering these aspects of our study area to answer these important questions:
 
-   * **Population and Demographic**: How is the distribution of economically          active groups and where are the mostly densely populated areas?
+   * **Population and Demographic**: How is the distribution of economically          active groups and where are the most densely populated areas?
    * **Economic and Business**: What are the available economic and business facilities such as banks, retail and trade?
    * **Transport and Communication**: What are the available transportation options and telecommunication facilities?
    * **Infrastructure**: What are the available infrastructures?
@@ -40,7 +44,7 @@ Our first objective is to prepare a report of survey covering these aspects of o
    
 ### Objective 2
 
-Our second objective is to conduct site suitability analysis uisng Raster based GIS Multiple-Criteria Decision Analysis (GIS-MCDA) to recommend a suitable site as Indonesia's new capital, tapping onto insights we obtained earlier from objective 1. 
+Our second objective is to conduct site suitability analysis using Raster based GIS Multiple-Criteria Decision Analysis (GIS-MCDA) to recommend a suitable site as Indonesia's new capital, tapping onto insights we obtained earlier from objective 1. 
 
 ## Project Timeline
 ### Our Gantt Chart
