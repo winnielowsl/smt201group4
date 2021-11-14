@@ -13,6 +13,8 @@ navbar:
       href: survey.html
     - text: "Site Suitability"
       href: site.html
+    - text: "Poster"
+      href: poster.html
     - text: "About Us"
       href: about.html
 output: distill::distill_article

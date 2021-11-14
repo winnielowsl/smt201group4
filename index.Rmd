@@ -122,7 +122,18 @@ For infrastructure, we studied water and energy facilities, alongside sources of
   * Housing and Building Distribution in East Kalimantan
 
 
-## Scope of Work: Task 2
-The team first got together to rank the 8 factors in order to derive the AHP scores. The factors map were then created, followed by the combined AHP Suitability Layer. From there, we segregated the sites into suitable/not suitable and finally derived our potential site as Indonesia's new capital. 
+## Scope of Work for Task 2
+The 8 factors considered in this analysis are as follow:
+
+  * **Accessibility**: road transport
+  * **Economic**: slope levels
+  * **Water Transportation**: ferries and boats
+  * **Air Transportation**: airports
+  * **Safety Hazard**: forest fires
+  * **Environment Sustainability**: forests and mangrove forests
+  * **Flood Risk**: rivers and coastlines
+  * **Building Density**: settlement areas
+
+The team first got together to rank the 8 factors in order to derive the AHP scores. The factor maps were then created, followed by the combined AHP Suitability Layer. From there, we segregated the sites into suitable/not suitable and finally derived our potential site as Indonesia's new capital. 
 
 In our analysis, we explained why Safety Hazard, Accessibility and Sea Transport are considered the most important factors, followed by a discussion of the advantages and disadvantages of the potential site.

@@ -1,7 +1,9 @@
 ---
 title: "Report of Survey"
 ---
-*These are some of the more important maps we created for each of the 5 themes, alongside the main insights for the map. Do refer to our report for all the maps and full analysis.*
+*Here, you will find some of the more important maps we created for each of the 5 themes, alongside the main insights for the map.*
+
+*Do refer to our report here for all the maps and full analysis: [Report of Survey]().*
 
 ## Population and Demographics
 ##### 1. BIVARIATE CHOROPLETH MAP
@@ -10,10 +12,13 @@ The most densely populated areas, Balikpapan City and Samarinda City, are domina
 
 ## Economic and Business
 ##### 1. DISTRIBUTION OF TRADE AND RETAIL
+![](img/Retail Map.png)
+Notably, only Balikpapan and Samarinda have City Trade and Commerce Centres like malls. The less densely populated Kutai Kartanegara and Penajam Paser Utara have Traditional Trade Centres such as retail and wholesale markets instead of malls. These retail and wholesale markets sell a wide range of products that are sufficient to cater to the needs of residents living around the area. Penajam Paser Utara only has two Traditional Trade Centres while Kutai Kartanegara has 15 Traditional Trade Centres that are sparsely distributed across the regency. Due to the large land area catered to mining and agricultural activities in outskirts of Samarinda and Balikpapan, trade and retail developments tend to be fewer there.
 
 
 ##### 2. DISTRIBUTION AND SIZE OF OPEN MINING AREAS
-
+![](img/Mine Map Final.png)
+The total mining area in our study area is 258.27 km2 scattered mostly across the districts of Kutai Kartanegara and Samarinda. There are many more mining areas in Kutai Kartanegara than Samarinda City. The largest mining area in our study area is located mostly in Kutai Kartanegara and a small part of Bantuas village in Kota Samarinda. The mining field occupies a large portion of Jawa, Sanga-Sanga Dalam and Sari Jaya villages. Since Indonesian law states that mining is prohibited within 500 metres of housing, new developments and settlements should not be built near these mining areas. 
 
 ## Transport and Communication
 ##### 1. VILLAGES WITH HIGHEST NUMBER OF TRANSPORTATION
