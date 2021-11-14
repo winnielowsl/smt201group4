@@ -4,7 +4,9 @@ output: distill::distill_article
 ---
 ![](img/logo.jpg){width=50%}
 
-Kesibumantan is a project under the module SMT201 Geographic Information Systems by Professor Kam Tin Seong. In Bahasa, Kesibukan means hustle and bustle. Since the project involves studying Kalimantan Timur (East Kalimantan) for Indonesia's new capital, we decided to name the project Kesibumantan which is a combination of Kesibukan + Kalimantan. 
+Kesibumantan is a project under the module SMT201 Geographic Information Systems for Urban Planning by Professor Kam Tin Seong in Singapore Managament University (SMU). 
+
+In Bahasa, Kesibukan means hustle and bustle. Since the project involves studying Kalimantan Timur (East Kalimantan) for Indonesia's new capital, we decided to name the project Kesibumantan which is a combination of Kesibukan + Kalimantan. 
 
 ## Introduction 
 Jakarta, Indonesia’s current capital, has long been struggling with environmental problems. The seawall constructed to protect north Jakarta from the sea is also decreasing by an estimated 25cm per year, Jakarta is sinking very fast and facing an increasing risk of major flooding as days go by. Moving the capital was thus deemed necessary to spread the economic activities, reduce traffic gridlock and also decrease the population density in the overcrowded Java island that is home to almost 60% of the population.
