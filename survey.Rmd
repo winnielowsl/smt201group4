@@ -3,7 +3,7 @@ title: "Report of Survey"
 ---
 *Here, you will find some of the more important maps we created for each of the 5 themes, alongside the main insights for the map.*
 
-*Do refer to our report here for all the maps and full analysis: [Report of Survey]().*
+*Do refer to our report here for all the maps and full analysis: [Report of Survey](https://drive.google.com/file/d/1c0bAN8FAqwtMblCe1L4g8LQmCvg6ye-B/view?usp=sharing).*
 
 ## Population and Demographics
 ##### 1. BIVARIATE CHOROPLETH MAP
