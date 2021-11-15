@@ -4,7 +4,7 @@ title: "Site Suitability Analysis"
 
 *In this section, you will find the recommended site obtained through AHP Suitability analysis, alongside a discusssion of the advantages and disadvantages of the site.*
 
-*Do refer to our report here for the full analysis: [Site Suitability Analysis]()*
+*Do refer to our report here for the full analysis: [Site Suitability Analysis](https://drive.google.com/file/d/1kcqE8bVcNuHUWa6241QeyDVgCxZj1epl/view?usp=sharing)*
 
 ## AHP Scores 
 Below are the AHP scores for the 8 factors, ranked according to importance. 
