@@ -54,41 +54,6 @@ Our first objective is to prepare a report of survey covering these aspects of o
 
 Our second objective is to conduct site suitability analysis using Raster based GIS Multiple-Criteria Decision Analysis (GIS-MCDA) to recommend a suitable site as Indonesia's new capital, tapping onto insights we obtained earlier from objective 1. 
 
-## Project Timeline
-### Our Gantt Chart
-![](img/project timeline.png)
-
-## Delegation of Work
-### Task 1: Report of Survey
-
-Theme | Person in Charge
-------------- | -------------
-Population and Demographic | Hui Qi
-Economic and Business | Hui Qi 
-Transport and Communication | Winnie
-Environment and Hazard | Winnie
-Infrastructure | Shereen
-
-### Task 2: Site Suitability Analysis
-
-Factor | Person in Charge
-------------- | -------------
-Accessibility | Winnie
-Economic | Winnie 
-Water Transportation | Winnie
-Air Transportation | Winnie
-Safety Hazard | Hui Qi
-Environment Sustainability | Hui Qi
-Flood Risk | Shereen
-Building Density | Shereen
-
-### Other Miscellaneous Work
-Factor | Person in Charge
-------------- | -------------
-Poster | Shereen
-Website | Winnie 
-Report Clean Up | Hui Qi
-Metadata | Hui Qi
 
 ## Scope of Work for Task 1
 *In this section, we outlined the maps created for each of the 5 themes.*
@@ -149,3 +114,41 @@ The 8 factors considered in this analysis are as follow:
 The team first got together to rank the 8 factors in order to derive the AHP scores. The factor maps were then created, followed by the combined AHP Suitability Layer. From there, we segregated the sites into suitable/not suitable and finally derived our potential site as Indonesia's new capital. 
 
 In our analysis, we explained why Safety Hazard, Accessibility and Sea Transport are considered the most important factors, followed by a discussion of the advantages and disadvantages of the potential site.
+
+## Project Timeline
+### Our Gantt Chart
+![](img/project timeline.png)
+
+## Delegation of Work
+### Task 1: Report of Survey
+
+Theme | Person in Charge
+------------- | -------------
+Population and Demographic | Hui Qi
+Economic and Business | Hui Qi 
+Transport and Communication | Winnie
+Environment and Hazard | Winnie
+Infrastructure | Shereen
+
+### Task 2: Site Suitability Analysis
+
+Factor | Person in Charge
+------------- | -------------
+Accessibility | Winnie
+Economic | Winnie 
+Water Transportation | Winnie
+Air Transportation | Winnie
+Safety Hazard | Hui Qi
+Environment Sustainability | Hui Qi
+Flood Risk | Shereen
+Building Density | Shereen
+
+### Other Miscellaneous Work
+Factor | Person in Charge
+------------- | -------------
+Poster | Shereen
+Website | Winnie 
+Report Clean Up | Hui Qi
+Metadata | Hui Qi
+
+
