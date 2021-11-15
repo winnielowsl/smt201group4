@@ -2,6 +2,8 @@
 title: "Web Maps"
 output: html_document
 ---
+*Here are the web maps created, do click on the links to view them.*
+
 ### POPULATION DENSITY IN EAST KALIMANTAN
 
 ![](img/population density (webmap).jpg)
