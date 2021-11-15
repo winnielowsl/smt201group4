@@ -1,0 +1,28 @@
+---
+title: "Web Maps"
+output: html_document
+---
+### POPULATION DENSITY IN EAST KALIMANTAN
+
+![](img/population density (webmap).jpg)
+
+*View our web map here: [population density in east kalimantan](https://winnielowsl.github.io/Population-Density/#9/-0.6784/116.8767)*
+
+
+### TRANSPORTATION IN EAST KALIMANTAN
+
+![](img/transportation (webmap).png)
+
+*View our web map here: [transportation in east kalimantan](https://winnielowsl.github.io/Transportation/#10/-1.3189/117.3717)*
+
+
+### POTENTIAL SITE AS INDONEISA'S NEW CAPITAL
+
+![](img/potential site (webmap).png)
+
+*View our web map here: [potential site](https://winnielowsl.github.io/Site/#13/-1.2747/116.9375)*
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+

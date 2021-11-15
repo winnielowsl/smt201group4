@@ -8,6 +8,9 @@ title: "Report of Survey"
 ## Population and Demographics
 ##### 1. BIVARIATE CHOROPLETH MAP
 ![](img/Bivariate Choropleth Map FINAL.png)
+
+> *View our web map for population density here: [population density in east kalimantan](https://winnielowsl.github.io/Population-Density/#9/-0.6784/116.8767)*
+
 The most densely populated areas, Balikpapan City and Samarinda City, are dominated by a higher number of population who are aged 15 to 64. In contrast, the more rural areas, Penajam Paser Utara and Kutai Kartanegara, are coloured relatively homogeneously, with less population density and lower proportion of population between the age 15 to 64. 
 
 ## Economic and Business

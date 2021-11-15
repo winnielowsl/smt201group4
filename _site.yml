@@ -13,6 +13,8 @@ navbar:
       href: survey.html
     - text: "Site Suitability"
       href: site.html
+    - text: "Web Maps"
+      href: webmaps.html
     - text: "Poster"
       href: poster.html
     - text: "About Us"
