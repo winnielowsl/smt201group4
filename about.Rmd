@@ -1,7 +1,9 @@
 ---
 title: "Welcome to our website for SMT201 Group Project!"
 description: |
-  In this website, we discuss about our work done and insights gained for the project. Here are some information about us.
+  In this website, we discuss about our work done and insights gained for the project. Access our GitHub Repository here: *[GitHub](https://github.com/winnielowsl/smt201group4).* 
+  
+  Here are some information about us.
 
 author:
   - name: Winnie Low
